@@ -1,4 +1,4 @@
-Garmin Express Map Update 🧭🗺️
+Garmin Express Map Update? Easy Guide
 ==============================
 .. toctree::
    :maxdepth: 2
