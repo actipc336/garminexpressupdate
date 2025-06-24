@@ -1,4 +1,4 @@
-Garmin Express Map Update? Easy Guide
+How to Update Garmin Express Map? Easy Guide
 ==============================
 .. toctree::
    :maxdepth: 2
